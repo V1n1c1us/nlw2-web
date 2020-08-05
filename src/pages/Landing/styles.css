@@ -1,4 +1,4 @@
-#page-lending {
+#page-landing {
     width: 100vw;
     height: 100vh;
 
@@ -8,4 +8,17 @@
 
     color: var(--color-text-in-primary);
     background: var(--color-primary);
+}
+
+.logo-container {
+    height: 10rem;
+}
+
+.hero-image {
+    width: 100%;
+}
+
+.logo-container {
+    text-align: center;
+    margin-bottom: 3.2rem;
 }
