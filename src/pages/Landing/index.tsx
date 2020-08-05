@@ -10,7 +10,7 @@ import './styles.css';
 
 function Landing() {
     return (
-        <div id="page-lending">
+        <div id="page-landing">
             <div id="page-landing-content" className="container">
                 <div className="logocontainer">
                     <img src={logoImg} alt="Proffy"/>
