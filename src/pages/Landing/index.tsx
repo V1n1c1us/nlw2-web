@@ -27,7 +27,7 @@ function Landing() {
                 <div className="buttons-container">
                     <a href="" className="study">
                         <img src={studyIcon} alt="Estudar"/>
-                        Estudar
+                        Estudar aa
                     </a>
 
                     <a href="" className="study">
