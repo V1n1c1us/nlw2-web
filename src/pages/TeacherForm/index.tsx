@@ -1,7 +1,14 @@
 import React from 'react';
+import PageHeader from '../../components/PageHeader';
+
+import './styles.css';
 
 function TeatcherForm() {
-    return ( <h1>Oi</h1>);
+    return ( 
+        <div id="page-teacher-form" className="container">
+            <PageHeader title="Que incível que você quer dar aulas."/>
+        </div>
+    );
 }
 
 export default TeatcherForm;
