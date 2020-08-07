@@ -11,6 +11,9 @@
     color: var(--color-text-in-primary)
 }
 
+#search-teatcher input {
+    box-shadow: 5px 5px 15px 0px rgba(44,44,44,0.15);
+}
 #search-teatcher .input-block + .input-block{
     margin-top: 1.4rem;
 }

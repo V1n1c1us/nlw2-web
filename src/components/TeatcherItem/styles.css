@@ -4,6 +4,7 @@
     border-radius: 0.8rem;
     margin-top: 2.4rem;
     overflow: hidden;
+    box-shadow: 5px 5px 15px 0px rgba(44,44,44,0.15);
 }
 
 .teatcher-item header {
