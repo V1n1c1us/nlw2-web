@@ -17,10 +17,10 @@ const TeatcherItem: React.FC = () => {
 
         <p>
            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quaerat aliquid, eligendi libero doloremque veniam illo,
-            a perspiciatis asperiores distinctio modi eum cupiditate. Explicabo labore, porro magnam nulla ex aliquam.
-            <br/><br/>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quaerat aliquid, eligendi libero doloremque veniam illo,
-            a perspiciatis asperiores distinctio modi eum cupiditate. Explicabo labore, porro magnam nulla ex aliquam.
+           a perspiciatis asperiores distinctio modi eum cupiditate. Explicabo labore, porro magnam nulla ex aliquam.
+           <br/><br/>
+           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quaerat aliquid, eligendi libero doloremque veniam illo,
+           a perspiciatis asperiores distinctio modi eum cupiditate. Explicabo labore, porro magnam nulla ex aliquam.
         </p>
 
         <footer>
