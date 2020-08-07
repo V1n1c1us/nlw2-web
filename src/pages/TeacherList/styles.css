@@ -45,6 +45,13 @@
     bottom: 0;
 }
 
+#page-teatcher main{
+    margin: 3.2rem auto;
+    width: 90%;
+}
+
+
+
 @media (min-width: 700px) {
     #page-teacher-list {
         max-width: 100%;
@@ -60,5 +67,31 @@
 
     #search-teatcher .input-block + .input-block{
         margin-top: 0;
+    }
+
+    #page-teacher-list main {
+        max-width: 740px;
+        padding: 3.2rem 0;
+        margin: 0 auto;
+    }
+
+    .teatcher-item header,
+    .teatcher-item footer {
+        padding: 3.2rem;
+    }
+
+    .teatcher-item footer p strong {
+        display: inline;
+        margin-left: 1.6rem;
+    }
+
+    .teatcher-item footer button {
+        width: 24.5rem;
+        font-size: 1.6rem;
+        justify-content: center;
+    }
+
+    .teatcher-item footer button img {
+        margin-right: 1.6rem;
     }
 }

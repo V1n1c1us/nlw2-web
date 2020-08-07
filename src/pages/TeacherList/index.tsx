@@ -3,6 +3,8 @@ import PageHeader from '../../components/PageHeader';
 
 import './styles.css';
 
+import TeatcherItem from '../../components/TeatcherItem';
+
 function TeatcherList() {
     return ( 
         <div id="page-teacher-list" className="container">
@@ -24,6 +26,15 @@ function TeatcherList() {
                     </div>
                 </form>
             </PageHeader>
+
+            <main>
+                <TeatcherItem/>
+                <TeatcherItem/>
+                <TeatcherItem/>
+                <TeatcherItem/>
+                <TeatcherItem/>
+                <TeatcherItem/>
+            </main>
         </div>
     );
 }
